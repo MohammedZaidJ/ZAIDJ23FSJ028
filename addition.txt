@@ -1,0 +1,12 @@
+public class Addition {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a = 1500;
+		int b = 1300;
+		int sum = a + b;
+		System.out.println(sum);
+
+	}
+
+}
